@@ -36,3 +36,5 @@ The system improves by rule, not by hope. When the same failure appears three ti
 ## What this is
 
 The Agent Governance Console is the demonstration surface for this operating model: the approval queue, the rate limits, the audit log, and the kill switch, working live on a simulated operation. The production system it models stays private. The governance design is the work, and it transfers to any team deploying agents against real operations.
+
+One operator asset sits behind all of it: the person presenting this system is a natural on camera. I anchored my school's television show from its very first episode, all four years of high school, and I have performed on camera professionally as a creator since 2023. Deployment lives or dies in demos, training sessions, and stakeholder rooms, and being watched while I work is a condition I have thousands of reps under.
